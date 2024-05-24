@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.page {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  cursor: pointer;
+}
+
+.left {
+  cursor: pointer;
+}
+
+.le {
+  opacity: 0;
+}
+
+.right {
+  cursor: pointer;
+}
+
+.re {
+  opacity: 0;
+}
